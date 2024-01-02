@@ -6,13 +6,13 @@ You can use the app to save the contracts done in the game and add a roleplay to
 ## Stack
 
 Frontend: Angular
-Backend:
-- Local database -> basic Express with Prisma and SQLite
-- Cloud service -> firebase
+Backend (private use): Local database with in-app Express, Prisma and SQLite
+Backend (public): In memory data (8 first contracts)
 
 ## Frontend
 
-Pages:  
+Pages:
+
 - Home (Dashboard)
 - Contracts
 - Contract detail
