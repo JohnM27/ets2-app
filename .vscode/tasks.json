@@ -37,6 +37,13 @@
           }
         }
       }
+    },
+    {
+      "type": "npm",
+      "script": "serve:ssr:ets2-app",
+      "problemMatcher": [],
+      "label": "npm: serve:ssr:ets2-app",
+      "detail": "node dist/ets2-app/server/server.mjs"
     }
   ]
 }
